@@ -1,3 +1,9 @@
+# Eamon Mukhopadhyay's First CS193 Homework
+
+- One of my favorite things about CS193 is the humor that is added to the class.
+- Another one of my favorite things about CS193 is the fact we get to interact with terminal.
+- I also really like that CS193 incorporates very well developed and visually entertaining slideshows.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
